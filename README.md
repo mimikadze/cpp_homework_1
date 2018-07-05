@@ -2,11 +2,16 @@
 
 ## Homework #1
 
-
+### install
 `echo "deb https://dl.bintray.com/mimikadze/cpp_homeworks trusty main" | sudo tee -a /etc/apt/sources.list`
 
 `sudo apt update`
 
 `sudo apt install helloworld`
 
+### run
 `helloworld_cli`
+
+
+
+Tested on Ubuntu 18.04
